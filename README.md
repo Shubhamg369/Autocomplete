@@ -16,8 +16,6 @@ Autocomplete has become a ubiquitous feature in today's digital landscape. It's 
 looking for before you even realize it. From movie databases to search engines, even our cell phones are getting in on the game, 
 making our lives easier one keystroke at a time.
 
-![Login](https://github.com/Shubhamg369/Private/blob/main/Screenshot%202023-03-03%20at%207.00.19%20PM.png)
-
 Imagine a world where your digital devices can read your mind and predict your every move! Well, almost. In reality, these applications use historical data 
 to calculate the probability of what you're going to type next and present you with a list of the most likely queries. It's like having a crystal ball that 
 knows exactly what you want to search for, before you even finish typing.
@@ -36,7 +34,5 @@ matches in real time.
 
 But that's not all - this program takes it to the next level by opening up a Google search in your browser when you select a term. It's like having your 
 own personal research assistant, ready to dive into the depths of the internet to find exactly what you're looking for.
-
-![Login](https://github.com/Shubhamg369/Private/blob/main/Screenshot%202023-03-03%20at%207.00.57%20PM.png)
 
 So get your detective hat on and let this program be your trusty sidekick on your next case. The world of information is waiting for you!
